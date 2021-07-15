@@ -1,0 +1,16 @@
+*.b#*
+*.s#*
+*.zip
+*CAMOutputs*
+*.job
+lat_stm_zybo/v2
+*.dri
+*.gpi
+*.plc
+*.pls
+*.drd
+*.cmp
+*.sol
+*.stc
+*.sts
+*.cam
